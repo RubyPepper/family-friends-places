@@ -1,2 +1,2 @@
 # family-friends-places
-Family. Friends. Places. Connected together in one platform.
+A photo mosaic platform that transforms memories, people, and places into personalized artwork.
